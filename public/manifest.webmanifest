@@ -1,0 +1,13 @@
+{
+  "name": "Зчитувач",
+  "short_name": "Зчитувач",
+  "description": "Зчитує тексти з фото і збирає їх у бібліотеку",
+  "lang": "uk",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#2f5bd3",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
